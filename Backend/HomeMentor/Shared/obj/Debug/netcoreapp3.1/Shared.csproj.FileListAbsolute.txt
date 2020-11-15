@@ -1,0 +1,4 @@
+C:\Users\Filip\Desktop\HomeMentor\Backend\HomeMentor\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\Filip\Desktop\HomeMentor\Backend\HomeMentor\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Filip\Desktop\HomeMentor\Backend\HomeMentor\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\HomeMentor\Backend\HomeMentor\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
